@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0fff0bab-63a1-4138-bf81-459a1921ed8b": {
+      "ProjectGuid": "0fff0bab-63a1-4138-bf81-459a1921ed8b",
+      "DisplayName": "EmployeeService",
+      "ColorIndex": 0
+    },
+    "df317a05-8a30-45d4-a7b9-028f0bbfca47": {
+      "ProjectGuid": "df317a05-8a30-45d4-a7b9-028f0bbfca47",
+      "DisplayName": "EmployeeServiceTests",
+      "ColorIndex": 1
+    },
+    "20bde055-eb02-4555-919f-2fc513aca3ca": {
+      "ProjectGuid": "20bde055-eb02-4555-919f-2fc513aca3ca",
+      "DisplayName": "TaskEmployeeManagement",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

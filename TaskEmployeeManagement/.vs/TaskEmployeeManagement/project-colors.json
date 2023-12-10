@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "accf1454-93f3-44bb-a600-53e2ad9bb588": {
+      "ProjectGuid": "accf1454-93f3-44bb-a600-53e2ad9bb588",
+      "DisplayName": "TaskEmployeeManagement",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3f497e1e-039e-4c3b-9992-c8dda40702f1": {
+      "ProjectGuid": "3f497e1e-039e-4c3b-9992-c8dda40702f1",
+      "DisplayName": "TestTaskEm_UnitTests",
+      "ColorIndex": 1
+    },
+    "a2617665-2e91-423e-8e34-a54fedb87922": {
+      "ProjectGuid": "a2617665-2e91-423e-8e34-a54fedb87922",
+      "DisplayName": "TaskEmployeeManagement_UnitTests",
+      "ColorIndex": 2
+    },
+    "e4c75058-99c0-48c4-a6fe-4717756c6b2a": {
+      "ProjectGuid": "e4c75058-99c0-48c4-a6fe-4717756c6b2a",
+      "DisplayName": "TaskEmployeeManagement",
+      "ColorIndex": 3
+    },
+    "21caa489-e054-4f85-9e35-27cdd941a780": {
+      "ProjectGuid": "21caa489-e054-4f85-9e35-27cdd941a780",
+      "DisplayName": "EmployeeService",
+      "ColorIndex": 4
+    },
+    "281943b9-f6e0-4d54-8a8b-63a584bce423": {
+      "ProjectGuid": "281943b9-f6e0-4d54-8a8b-63a584bce423",
+      "DisplayName": "EmployeeServiceTests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
